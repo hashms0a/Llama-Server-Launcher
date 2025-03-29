@@ -1,4 +1,4 @@
-# Llama Server UI
+# Llama Server Launcher
 
 This project provides a user-friendly graphical interface for managing and controlling the [llama-server](https://github.com/ggml-org/llama.cpp) with GGUF models. It allows you to easily configure, start, and stop the server process.
 
