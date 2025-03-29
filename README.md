@@ -26,8 +26,8 @@ This project provides a user-friendly graphical interface for managing and contr
 Clone or download this repository:
 
 ```bash
-git clone https://github.com/hashms0a/Llama-Server-UI.git
-cd Llama-Server-UI
+git clone https://github.com/hashms0a/Llama-Server-Launcher.git
+cd Llama-Server-Launcher
 pip install -r requirements.txt
 ```
 
