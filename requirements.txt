@@ -7,3 +7,4 @@ signal
 platform
 json
 gguf
+psutil
