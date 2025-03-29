@@ -1,0 +1,9 @@
+tkinter
+configparser
+subprocess
+re
+pathlib
+signal
+platform
+json
+gguf
